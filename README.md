@@ -1,4 +1,4 @@
-# AI Code Reviewer for Pull Requests
+# AI-Powered PR Reviewer
 
 An AI-powered GitHub bot that automatically reviews pull requests, detects logic, style, and security issues, and posts contextual feedback directly on the PR.
 
